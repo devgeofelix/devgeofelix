@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 <!--
-**devgeofelix/devgeofelix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou o Geovane Silva, sou um programador Front End, atualmente estou aprendendo a criando projetos com:
+- HTML
+- CSS E iniciando o aprendizado de Java Script e React✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
