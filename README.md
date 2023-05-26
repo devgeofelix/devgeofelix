@@ -2,7 +2,7 @@
 
 Eu sou o Geovane T Silva
 
-Programador Front End
+Programador Full Stack
 
 Formado em ADS  | Analise e Desenvolmento de Sistemas.
 
